@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew test",
+    "working_directory": "/home/kavia/workspace/code-generation/offline-tic-tac-toe-332015-332029/android_app"
+}
